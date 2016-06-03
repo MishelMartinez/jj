@@ -1,0 +1,12 @@
+@import url('reset.css');
+/* General Demo Style */
+
+.container{
+	position:relative;
+}
+a{
+	color: #fff;
+	text-decoration: none!important;
+}
+
+
